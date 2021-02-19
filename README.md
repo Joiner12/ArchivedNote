@@ -1,2 +1,2 @@
 # ArchivedNote
-complete notes from learn and work
+Systematic notes from learn and work
